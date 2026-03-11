@@ -1,0 +1,1 @@
+{"socials":[],"summary":"Could not generate summary. Error details: Invalid format specifier ' \"A SINGLE STRING containing your detailed 3-5 bullet point summary with each bullet separated by a newline.\",\n  \"socials\": [\"url1\", \"url2\"]\n' for object of type 'str'"}

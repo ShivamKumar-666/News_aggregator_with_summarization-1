@@ -1,0 +1,10 @@
+{
+  "summary": "US tourists are stranded in the Mexican beach town of Puerto Vallarta after a wave of violence erupted following the death of drug lord Nemesio \u201cEl Mencho\u201d Oseguera Cervantes, Mexico\u2019s most wanted cartel boss.\n\u2022 American Yoni Pizer, who lives in Puerto Vallarta, was attacked by gunmen during Sunday\u2019s violence, when the car he was driving in was hijacked, torched, and used to barricade a road.\n\u2022 Pizer and his friends were on their way to go whale watching when they came across a white truck stopped at an intersection, and a young man with a gun pointed at their windshield, screaming in Spanish to get out of the car.\n\u2022 The gunman threw an incendiary device into the car, which immediately exploded in flames, and then two seconds later, the truck was also on fire, with Pizer and his friends running away and hearing explosions and gunfire.\n\u2022 Pizer eventually made it to safety thanks to strangers who picked him up in their car and drove him downtown, and was reunited with his husband who had sheltered in a children\u2019s orphanage for eight hours.",
+  "socials": [
+    "https://x.com/CNN",
+    "https://www.instagram.com/cnn/",
+    "https://twitter.com/CNN",
+    "https://instagram.com/CNN",
+    "https://x.com/AirCanada/status/2026108229156049035?s=20"
+  ]
+}

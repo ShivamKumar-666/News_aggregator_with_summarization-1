@@ -1,0 +1,23 @@
+# Node
+node_modules/
+dist/
+build/
+.angular/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+.venv/
+.pytest_cache/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/

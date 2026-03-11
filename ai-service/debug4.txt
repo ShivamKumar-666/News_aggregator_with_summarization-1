@@ -1,0 +1,5 @@
+﻿Loading embedding model...
+Embedding model loaded!
+Article Title: Man killed after entering secure perimeter of Trump's Mar-a-Lago residence, Secret Service says - BBC
+Error generating summary & socials: Invalid control character at: line 2 column 251 (char 252)
+Result: {'summary': 'Exception: Invalid control character at: line 2 column 251 (char 252)\n\nResponse was: {\n  "summary": "A suspect, identified as 21-year-old Austin T. Martin, was shot and killed by US Secret Service agents and a Palm Beach County Sheriff\'s deputy after entering the secure perimeter of Mar-a-Lago, President Trump\'s residence in Florida.\\n\nThe incident occurred at approximately 01:30 local time, and the suspect was reportedly carrying a shotgun and a fuel cannister.\\n\nPresident Trump was not in Florida at the time of the incident, having stayed in Washington DC.\\n\nThe suspect gained access to the property near the north gate when a guest was leaving, and officials are investigating the suspect\'s motives and how he obtained the weapon.",\n  "socials": []\n}', 'socials': []}

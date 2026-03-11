@@ -1,0 +1,5 @@
+﻿{
+  "socials": [],
+  "summary": "Exception: Expecting value: line 3 column 5 (char 21)\n\nResponse was: {\n  \"summary\": [\n    * The article has a title of \"Test title\",\n    * The summary of the article is \"Test summary\",\n    * The description mentions that \"The push-off hurt\",\n    * The snippet includes \"Test content\"\n  ],\n  \"socials\": [\"https://twitter.com/test\"]\n}"
+}
+
