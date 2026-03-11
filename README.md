@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI News Aggregator
 
 An intelligent, full-stack news aggregation platform powered by AI. It provides an intuitive interface to browse news, read AI-generated summaries, interact with articles via a Q&A chat, and extract social media references from the content.
@@ -91,3 +92,6 @@ GROQ_API_KEY=your_groq_api_key
 - **Frontend:** Angular, TypeScript, Angular Material
 - **Backend:** Node.js, Express, MongoDB, Mongoose, Axios, bcryptjs
 - **AI Service:** Python, Flask, LangChain, Groq (Llama), HuggingFace Embeddings (all-MiniLM-L6-v2), Chroma, Newspaper3k
+=======
+# News_aggregator_with_summarization
+>>>>>>> de4b7108f2d752b07742b120005bfad77d186c89
